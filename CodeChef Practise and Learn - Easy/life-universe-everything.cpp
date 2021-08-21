@@ -10,7 +10,7 @@
 //            1
 //            2
 //            8
-//          --- SOLUTION ---
+//           -- SOLUTION --
 
 #include <iostream>
 using namespace std;
