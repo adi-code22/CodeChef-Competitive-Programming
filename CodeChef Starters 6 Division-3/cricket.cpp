@@ -29,7 +29,7 @@
 //        B
 //        A
 //        A
-//        Explanation
+//        Explanation.
 //        Test Case 1: Player B is better than A in all 3 fields.
 //
 //        Test Case 2: Player A is better than B in all 3 fields.
